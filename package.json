@@ -1,6 +1,6 @@
 {
   "name": "language-cshtml",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ASP.NET Razor (cshtml) language support in Atom",
   "engines": {
     "atom": "*",
