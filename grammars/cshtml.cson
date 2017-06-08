@@ -82,7 +82,7 @@
             { "include": "source.cs" }
             { "include": "text.html.basic" }
         ]
-        "end": "(\\n|\\s)"
+        "end": "(\\n|\\s|(?=<))"
         "comments": "Covers single line Razor tags"
     }
     { "include": "#comments" }
